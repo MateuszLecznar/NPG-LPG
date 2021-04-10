@@ -6,17 +6,17 @@ Po dogłębnej analizie przedstawionych narzędzi zdecydowaliśmy się na wybór
 Zdecydowaliśmy się na realizację gry w kółko i krzyżyk. Zgodnie z naszymi umiejętnościami podzieliliśmy się sprawiedliwie pracą. Wyniki naszych rozmów zawarliśmy niżej: 
  
 ## Funkcjonalności:
-Implementacja gry na planszach 3x3, 4x4, 5x5
-Gra z komputerem.
-Statystyki wygranych zapamiętywanych nawet po wyłączeniu programu.
-Możliwość cofnięcia ruchu.
-Tryb gry na czas.
-Jedna zaproponowane przez grupę.
+-Implementacja gry na planszach 3x3, 4x4, 5x5
+-Gra z komputerem.
+-Statystyki wygranych zapamiętywanych nawet po wyłączeniu programu.
+-Możliwość cofnięcia ruchu.
+-Tryb gry na czas.
+-Dodatkowy system nagród za wygranie określonej liczby gier.
 ## Plan zadań:
-Logika programu (Gabriel Maj)
-Interfejs, grafika. (Mateusz Lęcznar)
-Baza danych programu (Rafał Maciasz)
-Implementacja funkcji gry.(Piotr Mamos)
-Wstępne testy i poprawki(Wszyscy)
+-Logika programu (Gabriel Maj)
+-Interfejs, grafika. (Mateusz Lęcznar)
+-Baza danych programu (Rafał Maciasz)
+-Implementacja funkcji gry.(Piotr Mamos)
+-Wstępne testy i poprawki(Wszyscy)
 
 
