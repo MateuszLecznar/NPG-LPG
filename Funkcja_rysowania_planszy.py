@@ -22,3 +22,5 @@ def rysuj_plansze():
 
 
 rysuj_plansze()
+
+def foo():
