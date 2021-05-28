@@ -19,6 +19,3 @@ def rysuj_plansze():
     pg.draw.line(ekran, czarny, (0, wysokosc / 3 * 2), (szerokosc, wysokosc / 3 * 2), 7)
 
     pg.display.update()
-
-
-rysuj_plansze()
