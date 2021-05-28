@@ -2,7 +2,7 @@ import pygame as pg, sys, time
 from pygame.locals import*
 czyj_ruch ="X"
 kto_wygral = None
-remis = false
+remis = False
 szerokosc = 400
 wysokosc = 400
 
