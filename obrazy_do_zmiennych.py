@@ -1,6 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 #obrazy do zmiennych
 
 plansza_startowa = pg.image.load('graphics/PlanszaStartowa.png')
