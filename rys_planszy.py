@@ -3,7 +3,10 @@
 
 
 import pygame as pg, sys, time
-from pygame.locals import *
+from pygame.locals import*
+
+from Ustawienia_planszy_rysunek_okna import plansza_startowa, ekran
+from ustawienia_poczatkowe_3x3 import czarny, wysokosc, szerokosc, bialy
 
 
 def rysuj_plansze():
