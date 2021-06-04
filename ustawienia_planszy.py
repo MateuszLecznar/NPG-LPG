@@ -1,6 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 #ustawienia planszy
 plansza = [[None] * 3, [None] * 3, [None] * 3]
 #okno programu
