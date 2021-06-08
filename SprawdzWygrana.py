@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import pygame as pg
+import RysujDodatkoweInformacje
 from pygame.locals import*
 def SprawdzWygrana():
     global plansza,kto_wygral, remis

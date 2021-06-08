@@ -1,3 +1,10 @@
+from Cofnij import Cofnij
+from Komputer import Komputer
+from RestartujGre import ResetujGre
+from ustawienia_poczatkowe_3x3 import punkty_X, punkty_Y, kto_wygral, remis
+import Ustawienia_planszy_rysunek_okna
+import keyboard
+import SprawdzPole
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
@@ -9,7 +16,7 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-import pygame as pg
+import pygame as pg, sys,time
 from pygame.locals import*
 while(True):
 

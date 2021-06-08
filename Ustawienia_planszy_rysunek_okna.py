@@ -13,8 +13,7 @@ bialy = (255, 255, 255)
 czarny = (0, 0, 0)
 czerwony = (255, 0, 0)
 
-punkty_X = 0
-punkty_Y = 0
+
 powtorka =0
 czy_moge=0
 

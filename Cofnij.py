@@ -2,6 +2,12 @@
 # -*- coding: utf-8 -*-
 import pygame as pg
 from pygame.locals import*
+
+from Ustawienia_planszy_rysunek_okna import plansza, ekran, czarny, wysokosc, szerokosc
+
+from NarysujSymbol import ostatni_x, ostatni_o, NarysujSymbol
+
+
 def Cofnij():
     global czyj_ruch
 

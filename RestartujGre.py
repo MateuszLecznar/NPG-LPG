@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
+from Ustawienia_planszy_rysunek_okna import ekran
+from ustawienia_poczatkowe_3x3 import bialy
+import RysujPlansze
+import pygame as time
 def ResetujGre():
     global plansza, kto_wygral,czyj_ruch,remis,punkty_Y,punkty_X
     time.sleep(3)

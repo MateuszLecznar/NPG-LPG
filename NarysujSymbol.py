@@ -2,6 +2,11 @@
 # -*- coding: utf-8 -*-
 import pygame as pg
 from pygame.locals import*
+
+from Ustawienia_planszy_rysunek_okna import ekran, obraz_x
+from ustawienia_poczatkowe_3x3 import szerokosc, wysokosc
+
+
 def NarysujSymbol(Wiersz, Kolumna):
     global plansza, czyj_ruch, ostatni_x , ostatni_o
 
