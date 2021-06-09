@@ -16,7 +16,7 @@ Zdecydowaliśmy się na realizację gry w kółko i krzyżyk. Zgodnie z naszymi 
 
 -Tryb gry na czas.
 
--Dodatkowy system nagród za wygranie określonej liczby gier.
+
 ## Plan zadań:
 -Logika programu (Gabriel Maj)
 
